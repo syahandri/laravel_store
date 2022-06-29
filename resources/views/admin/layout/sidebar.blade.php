@@ -75,8 +75,8 @@
       Kelola Laporan
    </div>
 
-   <!-- Nav Item - Order Collapse Menu -->
-   <li class="nav-item">
+   <!-- Nav Item - Report Collapse Menu -->
+   <li class="nav-item {{ request()->routeIs('report.*') ? 'active' : '' }}">
       <a class="nav-link show" href="#" data-bs-toggle="collapse" data-toggle="collapse" data-bs-target="#report-collapse">
          <i class="fa-solid fa-fw fa-file-invoice"></i>
          <span>Laporan</span>
@@ -84,7 +84,7 @@
       <div id="report-collapse" class="collapse show">
          <div class="collapse-inner rounded bg-white py-2">
             <h6 class="collapse-header">Laporan Transaksi</h6>
-            <a class="collapse-item" href="">Penjualan</a>
+            <a class="collapse-item" href="{{ route('report.sales') }}">Penjualan</a>
          </div>
       </div>
    </li>

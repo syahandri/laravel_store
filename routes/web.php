@@ -98,7 +98,7 @@ Route::middleware(['auth_admin', 'verified', 'admin'])->group(function () {
          Route::get('detail-cancel/{invoiceCancel}', 'detailCancel')->name('detail.cancel');
       });
 
-      Route::get('report/sales', [ReportController::class, 'sales'])->name('sales');
+      Route::get('report/sales', [ReportController::class, 'sales'])->name('report.sales');
    });
 });
 
