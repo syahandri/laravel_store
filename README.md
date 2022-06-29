@@ -10,7 +10,7 @@
 ![Checkout page](https://github.com/syahandri/laravel_store/blob/main/feature-image/invoice_1.png)
 ![Checkout page](https://github.com/syahandri/laravel_store/blob/main/feature-image/invoice_2.png)
 ### Halaman profil
-![Profile page](https://github.com/syahandri/laravel_store/blob/main/feature-image/profile.png)
+![Profile page](https://github.com/syahandri/laravel_store/blob/main/feature-image/profiile.png)
 ### Halaman status pesanan
 ![Orser status page](https://github.com/syahandri/laravel_store/blob/main/feature-image/order_status.png)
 ## Preview halaman admin
