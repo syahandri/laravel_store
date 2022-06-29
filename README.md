@@ -1,6 +1,7 @@
 # Toko Online Sederhana Menggunakan Framework Laravel
 ## Preview halaman user
 ### Halaman beranda
+
 ![Home page](https://github.com/syahandri/laravel_store/blob/main/feature-image/home.png)
 ### Halaman detail produk
 ![Product detail page](https://github.com/syahandri/laravel_store/blob/main/feature-image/product_detail.png)
@@ -28,6 +29,9 @@
 ![Order status detail page](https://github.com/syahandri/laravel_store/blob/main/feature-image/order_pending_detail.png)
 ### Halaman laporan penjualan
 ![Report sales page](https://github.com/syahandri/laravel_store/blob/main/feature-image/report_sales.png)
-
+#### soure image (just for learning): 
+https://www.haztecworkwear.com/hrc-catagories/hrc-cat-2-min-8-cal-cm2/
+https://www.tokopedia.com/eternalworks/jaket-pria-halland-harrington-navy-jacket-jaket-harrington-s
+https://www.indiamart.com/proddetail/men-s-olive-green-full-sleeves-jackets-22693303230.html
 
 
